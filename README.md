@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Self-Organized Criticality (SOC) Dynamics project, focused on exploring the Ising-percolation models on Sierpinski fractal lattices. The primary objective is to compare the behaviors of these fractal lattices with those lacking self-similarity. Our aim is to understand the influence of topology on the emergent properties of critical self-organization.
+Welcome to the Self-Organized Criticality (SOC) Dynamics project, focused on exploring the Ising-percolation model on Sierpinski fractal lattices. The primary objective is to compare the behaviors of these fractal lattices with those lacking self-similarity. Our aim is to understand the influence of topology on the emergent properties of critical self-organization.
 
 ## Project Objectives
 
